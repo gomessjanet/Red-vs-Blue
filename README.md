@@ -71,13 +71,13 @@ This project covers portions of the following domains of Cybersecurity
 Kibana to analyze logs taken during the Red Team attack. As we analyze, you will use the data to develop 
 ideas for new alerts that can improve your monitoring.
  
-Analyzing the logs is still valuable AND will teach us what your attack looks like from a defender's perspective. How stealthy or detectable your tactics are. Which kinds of alarms and alerts SOC and IR professionals can set to spot attacks like yours while they occur, rather than after following existing reports:
-    - HTTP status codes for the top queries [Packetbeat] ECS
-    - Top 10 HTTP requests [Packetbeat] ECS
-    - Network Traffic Between Hosts [Packetbeat Flows] ECS
-    - Top Hosts Creating Traffic [Packetbeat Flows] ECS
-    - Connections over time [Packetbeat Flows] ECS
-    - HTTP error codes [Packetbeat] ECS
-    - Errors vs successful transactions [Packetbeat] ECS
-    - HTTP Transactions [Packetbeat] ECS  
+Analyzing the logs is still valuable and will teach us what your attack looks like from a defender's perspective. How stealthy or detectable your tactics are. Which kinds of alarms and alerts SOC and IR professionals can set to spot attacks like yours while they occur, rather than after following existing reports:
+      - HTTP status codes for the top queries [Packetbeat] ECS
+      - Top 10 HTTP requests [Packetbeat] ECS
+      - Network Traffic Between Hosts [Packetbeat Flows] ECS
+      - Top Hosts Creating Traffic [Packetbeat Flows] ECS
+      - Connections over time [Packetbeat Flows] ECS
+      - HTTP error codes [Packetbeat] ECS
+      - Errors vs successful transactions [Packetbeat] ECS
+      - HTTP Transactions [Packetbeat] ECS  
   
