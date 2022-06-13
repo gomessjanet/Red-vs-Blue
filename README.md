@@ -2,7 +2,7 @@
 Project
 As the Red Team, we will attack a vulnerable VM within the environment, ultimately gaining root access to the machine. As the Blue Team, we will use Kibana to review logs taken during the Day 1 engagement. We will use the logs to extract hard data and visualizations for their report. Then, we will interpret the log data to suggest mitigation measures for each exploit that has been successfully performed.
 
-![alt text](https://github.com/zakchow/Red-vs-Blue/blob/main/Diagram..jpg)
+![alt text](https://github.com/gomessjanet/Red-vs-Blue/Network Diagram.jpg)
 
 ### Unit Objectives
 
